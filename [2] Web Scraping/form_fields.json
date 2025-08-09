@@ -1,0 +1,27 @@
+[
+    {
+        "name": "username",
+        "type": "text",
+        "default_value": "Enter your username"
+    },
+    {
+        "name": "password",
+        "type": "password",
+        "default_value": "Enter your password"
+    },
+    {
+        "name": "terms",
+        "type": "checkbox",
+        "default_value": null,
+        "Options": [
+            "Option 1",
+            "Option 2",
+            "Option 3"
+        ]
+    },
+    {
+        "name": null,
+        "type": "submit",
+        "default_value": "Submit"
+    }
+]
